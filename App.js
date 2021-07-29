@@ -1,6 +1,6 @@
 
 import './App.css';
-import People from './components/People';
+import User from './Components/User';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       
       
 
-      <People/>
+      <User/>
 
 
 
